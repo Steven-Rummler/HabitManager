@@ -2,15 +2,14 @@
 
 A tool to support you in your habits and help you improve.
 
-## Getting Started
+The HabitManager app is a simple but effective tool. For simplicity,
+your information is stored in a local database on your phone.  As a
+result, the app operates without any connection to the internet.
 
-This project is a starting point for a Flutter application.
+Add all of the habits you would like to track with the plus button
+in the bottom right corner.  The app will automatically remind you
+about each of your habits at the times you list.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Report your progress in heach habit by simply clicking on the habit
+and reporting your results for that day.  If you would like to edit
+or delete a habit, long press on it and follow the dialog boxes.
